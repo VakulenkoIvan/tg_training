@@ -1,8 +1,4 @@
 """
-============================================================================
-"PraiseMe" gamified emotional support bot ("Хвалебный бот")
-(PraiseMe Inc. — Lab works No. 1, 2, 3)
-=============================================================================
 This single file implements:
 1. A database with 6 tables (SQLite, a single file, no DB server required):
    Characters, Phrases, Users, Deeds, Certificates, Crisis_Logs.
